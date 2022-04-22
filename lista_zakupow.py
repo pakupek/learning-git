@@ -20,7 +20,9 @@ print('Lista zakupów')
 for shop,items in shopping_dict.items():
     print(f'Idę do {shop}, kupuję tu następujące rzeczy: {items}')
 
-
+items_count = [len(items) for items in shopping_dict.values()] 
+total_items = items_count[0] + items_count[1]
+print(f'W sumię kupuję {total_items} produktów.') 
 
 
 
