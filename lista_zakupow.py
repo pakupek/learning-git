@@ -17,5 +17,10 @@ W sumie kupuję 6 produktów.
 shopping_dict = {'Piekarnia':['chleb','bułki','pączek'], 'Warzywniak': ['marchew','seler','rukola']}
 print('Lista zakupów')
 
+for shop,items in shopping_dict.items():
+    print(f'Idę do {shop}, kupuję tu następujące rzeczy: {items}')
+
+
+
 
 
