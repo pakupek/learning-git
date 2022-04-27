@@ -13,7 +13,7 @@
 #Idę do Piekarnia, kupuję tu następujące rzeczy: ['Chleb', 'Pączek', 'Bułki'].
 #Idę do Warzywniak, kupuję tu następujące rzeczy: ['Marchew', 'Seler', 'Rukola'].
 #W sumie kupuję 6 produktów.
-
+'''
 shopping_dict = {'Piekarnia':['chleb','bułki','pączek'], 'Warzywniak': ['marchew','seler','rukola']}
 print('Lista zakupów')
 
@@ -23,6 +23,6 @@ for shop,items in shopping_dict.items():
 items_count = [len(items) for items in shopping_dict.values()] 
 total_items = items_count[0] + items_count[1]
 print(f'W sumię kupuję {total_items} produktów.') 
-
+'''
 
 
