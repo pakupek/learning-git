@@ -1,3 +1,46 @@
+'''
+...aby kody się łatwo pisały,
+Tickety same rozwiązywały,
+Bugi nie pojawiały,
+I od klikania w ten komputer,oczy czy nie bolały! ?
+Bo wiadomo, że każdy programista, to od komputerów specjalista !?‍?
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Zadanie: mała powtórka
 #Zadanie 1:                                        
 #Załóżmy, że mamy do zrobienia zakupy spożywcze, potrzebujemy pójść do piekarni, w której kupujemy chleb, bułki oraz pączka. 
